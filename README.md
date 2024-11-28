@@ -13,7 +13,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="200"
-      width= "487"
+      width= "387"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro1253&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
