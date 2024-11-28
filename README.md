@@ -166,7 +166,7 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="170" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" 
   />
 
